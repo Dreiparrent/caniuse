@@ -32,6 +32,9 @@
     },
     {
       "description":"IE10 and IE11 do not appear to support overriding `min-width` or `max-width` values using the `initial` value."
+    },
+    {
+      "description":"IE does not seem to support relative `max-width` values on images" 
     }
   ],
   "categories":[
